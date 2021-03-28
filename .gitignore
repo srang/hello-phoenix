@@ -1,0 +1,7 @@
+.vimrc
+.ash_history
+.config
+*.sw*
+.idea
+.npm
+.viminfo
